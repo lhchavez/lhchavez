@@ -37,8 +37,8 @@
   
 ## 💚 Community Service
 
-* Co-founder and board member of [omegaUp, Inc.](https://omegaup.org), an organization that is increasing the number of talented software
-  engineers in Latin America.
+* Co-founder and board member of [omegaUp, Inc.](https://omegaup.org), a 501(c)(3) non-profit organization that is increasing the number of
+  talented software engineers in Latin America.
   * CTO of [omegaUp](https://omegaup.com), a free online programming contest platform that is currently being used to teach algorithms in
     Mexico (this also uses minijail for its containerization / sandboxing).
 * Some GitHub repos I maintain:
