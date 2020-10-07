@@ -1,7 +1,10 @@
 ## 💼 Employment
 
+* Repl.it
+  * Engineer (Oct 2020—)
+    - Building an online free, collaborative, in-browser IDE.
 * Google
-  * Staff Software Engineer, Cloud Engineering Productivity (Oct 2018—)
+  * Staff Software Engineer, Cloud Engineering Productivity (Oct 2018—Oct 2020)
     - Tech Lead of a group that is using Machine Learning to quantify risk in software development and make it useful to engineers in Cloud.
   * Software Engineer / Senior Software Engineer / Staff Software Engineer, Chrome OS (Jun 2013—Sep 2018)
     - Tech Lead of the core group that brought [Android apps to Chrome OS](https://blog.google/products/chromebooks/the-google-play-store-coming-to/).
